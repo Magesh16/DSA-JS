@@ -1,0 +1,10 @@
+class has n students, each students score is determined by their academic performance. Each student should receive attention based on their GeolocationCoordinates, 
+[student with lower grades have more attention]. Find the num of TimeRanges, the attention each student 
+shuld receive based on the following condition,
+
+1. Each student should taken care atleast once
+2. chronological order
+3. lower score students get more attention than adjacent neighbours.
+
+
+arr =[5,1,2,6,3,4];
